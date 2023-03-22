@@ -1,24 +1,5 @@
-# README
+# Set List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This application was created by following along with the tutorials listed below:
+- [Songs Index](https://youtu.be/At4fD_zkHJU)
+- [Songs Show](https://youtu.be/oZGZEJWt8qQ)
