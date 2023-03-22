@@ -43,8 +43,6 @@ RSpec.describe 'songs show page', type: :feature do
 
     visit "/songs/#{song_1.id}"
 
-    save_and_open_page
-
     expect(page).to have_link('Back to All Songs')
     click_link 'Back to All Songs'
     expect(current_path).to eq('/songs')
